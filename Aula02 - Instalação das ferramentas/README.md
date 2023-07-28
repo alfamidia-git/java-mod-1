@@ -1,0 +1,15 @@
+# INSTALAÇÃO DAS FERRAMENTAS
+## GIT
+O Git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software. Ele permite que equipes de desenvolvimento acompanhem as alterações em seus projetos, gerenciem o trabalho simultâneo em diferentes ramos (branches), facilitem a colaboração entre os membros da equipe e revertam alterações se necessário. Com o Git, os desenvolvedores podem rastrear o histórico de alterações, mesclar (merge) o trabalho de diferentes pessoas e gerenciar o fluxo de desenvolvimento de forma eficiente, garantindo a integridade e a rastreabilidade do código-fonte ao longo do tempo.
+[DOWNLOAD - GIT](https://git-scm.com/downloads)
+## JDK
+**Para que serve o JDK?** O JDK (Java Development Kit) é um conjunto de ferramentas e recursos necessários para desenvolver, compilar, depurar e executar aplicativos Java. Ele fornece um ambiente de desenvolvimento completo para criar programas Java e é amplamente utilizado por desenvolvedores em todo o mundo.
+No curso, vamos utilizar a versão 17 para nos mantermos atualizados e aproveitarmos os recursos mais recentes, com suporte de longo prazo (LTS). A versão 17 traz aprimoramentos para o desenvolvimento de aplicativos, melhorias de desempenho, suporte aprimorado para programação moderna e atualizações de segurança, garantindo uma experiência mais robusta e confiável na criação de sistemas Java.
+[DOWNLOAD - JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
+## COMPILADOR
+Compiladores são ferramentas essenciais no desenvolvimento de software, responsáveis por transformar o código-fonte escrito em uma linguagem de programação em um formato executável pelo computador. 
+O **IntelliJ Community**, o **Eclipse** e o **NetBeans** são três opções populares de ambientes de desenvolvimento integrado (IDE) para programação Java. Cada um possui suas características distintas, mas todos eles oferecem recursos essenciais para desenvolver aplicativos Java. No nosso curso, optamos por utilizar o IntelliJ Community devido à sua interface intuitiva, ferramentas avançadas e suporte ativo da comunidade. No entanto, é importante ressaltar que a escolha entre essas opções não causará grandes diferenças no aprendizado, uma vez que os conceitos e práticas de programação Java são transferíveis entre os ambientes. Portanto, caso você tenha preferência por outro IDE, poderá aplicar facilmente os conhecimentos adquiridos no curso para desenvolver seus aplicativos Java com qualquer uma dessas opções.
+[DOWNLOAD - IntelliJ Community](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC)
+[DOWNLOAD - ECLIPSE](https://www.eclipse.org/downloads/packages/installer)
+[DOWNLOAD - NetBeans](https://netbeans.apache.org/download/index.html)
