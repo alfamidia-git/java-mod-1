@@ -6,6 +6,11 @@ public class Exemplo1{
     }
 }
 ```
+##### Entendendo o código acima
+**Exemplo1**: é o nome da nossa classe principal. Veremos o que é classe mais para frente.
+**public static void main(String[] args)**: método inicializador do Java. Ele é obrigatório em todas aplicações java.
+**System.out.println()**: Responsável por imprimir no console
+
 ## Variáveis
 Uma variável é como uma caixa que podemos usar para armazenar informações em um programa. Ela tem um nome e um espaço para guardar um valor. Podemos pensar em uma variável como um recipiente que guarda algo, como uma gaveta em uma mesa. Assim como colocamos objetos diferentes em gavetas diferentes, podemos colocar diferentes valores em diferentes variáveis.
 
@@ -46,11 +51,6 @@ Os wrappers também são usados em contextos em que é necessário trabalhar com
 | double|  | Double |
 |boolean| | Boolean|
 | char	| | Character|
-
-##### Entendendo o código acima
-**Exemplo1**: é o nome da nossa classe principal. Veremos o que é classe mais para frente.
-**public static void main(String[] args)**: método inicializador do Java. Ele é obrigatório em todas aplicações java.
-**System.out.println()**: Responsável por imprimir no console
 
 ## DECLARAÇÃO DE VARIÁVEIS
 ```java
